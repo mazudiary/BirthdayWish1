@@ -1,0 +1,104 @@
+/* From index.html */
+@media (max-width: 768px) {
+    .side-decoration {
+        width: 50px;
+    }
+    
+    .side-item {
+        font-size: 1.5rem;
+    }
+    
+    .glass-container {
+        padding: 1.5rem;
+    }
+    
+    .message {
+        font-size: 1.4rem;
+    }
+    
+    .gif-container {
+        height: 150px;
+    }
+    
+    .top-emoji {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .side-decoration {
+        width: 30px;
+    }
+    
+    .side-item {
+        font-size: 1rem;
+    }
+    
+    .message {
+        font-size: 1.2rem;
+    }
+}
+
+/* From celebration.html */
+@media screen and (max-width: 768px) {
+    .birthday-text {
+        font-size: 3.5rem;
+        width: 100%;
+        padding: 0 20px;
+    }
+    
+    .romantic-message {
+        font-size: 1rem;
+        top: 65%;
+    }
+
+    .cake-cutting-button{
+        bottom: 25%;
+    }
+    
+    .celebrate-button {
+        bottom: 15%;
+        padding: 12px 30px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .birthday-text {
+        font-size: 1.8rem;
+    }
+    
+    .romantic-message {
+        font-size: 0.9rem;
+        width: 90%;
+    }
+    
+    .next-page-button{
+        bottom:60px;
+    }
+    
+    .celebrate-button {
+        bottom: 30%;
+        right: 0%;
+        padding: 10px 25px;
+        font-size: 14px;
+    }
+
+    .cake-container {
+        bottom: -35px;
+    }
+
+    .cake-cutting-button{
+        bottom: 20%;
+        left: 25%;
+    }
+    
+    .birthdayCard {
+        bottom: -165px;
+    }
+
+    .ballon {
+        top: 120px;
+        right: 120px;
+    }
+}
